@@ -12,3 +12,4 @@
 /Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/obj/Debug/net9.0/BinaryInCSharpDemo.pdb
 /Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/obj/Debug/net9.0/BinaryInCSharpDemo.genruntimeconfig.cache
 /Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/obj/Debug/net9.0/ref/BinaryInCSharpDemo.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/obj/Debug/net9.0/BinaryInCSharpDemo.sourcelink.json
