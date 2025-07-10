@@ -1,0 +1,14 @@
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/bin/Debug/net9.0/BinaryInCSharpDemo
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/bin/Debug/net9.0/BinaryInCSharpDemo.deps.json
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/bin/Debug/net9.0/BinaryInCSharpDemo.runtimeconfig.json
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/bin/Debug/net9.0/BinaryInCSharpDemo.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/bin/Debug/net9.0/BinaryInCSharpDemo.pdb
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/obj/Debug/net9.0/BinaryInCSharpDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/obj/Debug/net9.0/BinaryInCSharpDemo.AssemblyInfoInputs.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/obj/Debug/net9.0/BinaryInCSharpDemo.AssemblyInfo.cs
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/obj/Debug/net9.0/BinaryInCSharpDemo.csproj.CoreCompileInputs.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/obj/Debug/net9.0/BinaryInCSharpDemo.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/obj/Debug/net9.0/refint/BinaryInCSharpDemo.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/obj/Debug/net9.0/BinaryInCSharpDemo.pdb
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/obj/Debug/net9.0/BinaryInCSharpDemo.genruntimeconfig.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryInCSharpDemo/obj/Debug/net9.0/ref/BinaryInCSharpDemo.dll
