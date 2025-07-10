@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BinaryInCSharpDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a115b920c4919305d970b4eebb0b3780cea192cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BinaryInCSharpDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BinaryInCSharpDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
