@@ -1,0 +1,15 @@
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/bin/Debug/net9.0/BinaryOrOperator
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/bin/Debug/net9.0/BinaryOrOperator.deps.json
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/bin/Debug/net9.0/BinaryOrOperator.runtimeconfig.json
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/bin/Debug/net9.0/BinaryOrOperator.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/bin/Debug/net9.0/BinaryOrOperator.pdb
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/obj/Debug/net9.0/BinaryOrOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/obj/Debug/net9.0/BinaryOrOperator.AssemblyInfoInputs.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/obj/Debug/net9.0/BinaryOrOperator.AssemblyInfo.cs
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/obj/Debug/net9.0/BinaryOrOperator.csproj.CoreCompileInputs.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/obj/Debug/net9.0/BinaryOrOperator.sourcelink.json
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/obj/Debug/net9.0/BinaryOrOperator.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/obj/Debug/net9.0/refint/BinaryOrOperator.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/obj/Debug/net9.0/BinaryOrOperator.pdb
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/obj/Debug/net9.0/BinaryOrOperator.genruntimeconfig.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOrOperator/obj/Debug/net9.0/ref/BinaryOrOperator.dll

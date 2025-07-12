@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryInCSharpDemo", "BinaryInCSharpDemo\BinaryInCSharpDemo.csproj", "{F641C5F9-700B-42F9-8BDC-6B0BB80301ED}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BinaryOperators", "BinaryOperators", "{13CC5205-9152-4A91-896A-E72372746765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryOperators", "BinaryOperators\BinaryOperators.csproj", "{5C6E11EE-6530-454A-BA08-D4524B9AAEC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,12 @@ Global
 		{F641C5F9-700B-42F9-8BDC-6B0BB80301ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F641C5F9-700B-42F9-8BDC-6B0BB80301ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F641C5F9-700B-42F9-8BDC-6B0BB80301ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C6E11EE-6530-454A-BA08-D4524B9AAEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6E11EE-6530-454A-BA08-D4524B9AAEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6E11EE-6530-454A-BA08-D4524B9AAEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6E11EE-6530-454A-BA08-D4524B9AAEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5C6E11EE-6530-454A-BA08-D4524B9AAEC6} = {13CC5205-9152-4A91-896A-E72372746765}
 	EndGlobalSection
 EndGlobal

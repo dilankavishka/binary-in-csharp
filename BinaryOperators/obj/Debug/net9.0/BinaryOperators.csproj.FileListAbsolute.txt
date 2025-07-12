@@ -1,0 +1,15 @@
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/bin/Debug/net9.0/BinaryOperators
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/bin/Debug/net9.0/BinaryOperators.deps.json
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/bin/Debug/net9.0/BinaryOperators.runtimeconfig.json
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/bin/Debug/net9.0/BinaryOperators.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/bin/Debug/net9.0/BinaryOperators.pdb
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/obj/Debug/net9.0/BinaryOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/obj/Debug/net9.0/BinaryOperators.AssemblyInfoInputs.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/obj/Debug/net9.0/BinaryOperators.AssemblyInfo.cs
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/obj/Debug/net9.0/BinaryOperators.csproj.CoreCompileInputs.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/obj/Debug/net9.0/BinaryOperators.sourcelink.json
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/obj/Debug/net9.0/BinaryOperators.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/obj/Debug/net9.0/refint/BinaryOperators.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/obj/Debug/net9.0/BinaryOperators.pdb
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/obj/Debug/net9.0/BinaryOperators.genruntimeconfig.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/BinaryOperators/obj/Debug/net9.0/ref/BinaryOperators.dll
