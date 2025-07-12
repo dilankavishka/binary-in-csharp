@@ -1,0 +1,15 @@
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/bin/Debug/net9.0/MasksAndClearing
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/bin/Debug/net9.0/MasksAndClearing.deps.json
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/bin/Debug/net9.0/MasksAndClearing.runtimeconfig.json
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/bin/Debug/net9.0/MasksAndClearing.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/bin/Debug/net9.0/MasksAndClearing.pdb
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/obj/Debug/net9.0/MasksAndClearing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/obj/Debug/net9.0/MasksAndClearing.AssemblyInfoInputs.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/obj/Debug/net9.0/MasksAndClearing.AssemblyInfo.cs
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/obj/Debug/net9.0/MasksAndClearing.csproj.CoreCompileInputs.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/obj/Debug/net9.0/MasksAndClearing.sourcelink.json
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/obj/Debug/net9.0/MasksAndClearing.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/obj/Debug/net9.0/refint/MasksAndClearing.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/obj/Debug/net9.0/MasksAndClearing.pdb
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/obj/Debug/net9.0/MasksAndClearing.genruntimeconfig.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/MasksAndClearing/obj/Debug/net9.0/ref/MasksAndClearing.dll

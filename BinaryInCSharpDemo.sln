@@ -6,6 +6,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BinaryOperators", "BinaryOp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryOperators", "BinaryOperators\BinaryOperators.csproj", "{5C6E11EE-6530-454A-BA08-D4524B9AAEC6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MasksAndClearing", "MasksAndClearing", "{0049B31E-D0EF-4D16-A87F-44E9BF516DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasksAndClearing", "MasksAndClearing\MasksAndClearing.csproj", "{CD6E3676-3730-4C04-8A24-AB919A25ED45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +24,13 @@ Global
 		{5C6E11EE-6530-454A-BA08-D4524B9AAEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C6E11EE-6530-454A-BA08-D4524B9AAEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C6E11EE-6530-454A-BA08-D4524B9AAEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6E3676-3730-4C04-8A24-AB919A25ED45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6E3676-3730-4C04-8A24-AB919A25ED45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6E3676-3730-4C04-8A24-AB919A25ED45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6E3676-3730-4C04-8A24-AB919A25ED45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5C6E11EE-6530-454A-BA08-D4524B9AAEC6} = {13CC5205-9152-4A91-896A-E72372746765}
+		{CD6E3676-3730-4C04-8A24-AB919A25ED45} = {0049B31E-D0EF-4D16-A87F-44E9BF516DD2}
 	EndGlobalSection
 EndGlobal
