@@ -1,0 +1,15 @@
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/bin/Debug/net9.0/Flags
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/bin/Debug/net9.0/Flags.deps.json
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/bin/Debug/net9.0/Flags.runtimeconfig.json
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/bin/Debug/net9.0/Flags.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/bin/Debug/net9.0/Flags.pdb
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/obj/Debug/net9.0/Flags.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/obj/Debug/net9.0/Flags.AssemblyInfoInputs.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/obj/Debug/net9.0/Flags.AssemblyInfo.cs
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/obj/Debug/net9.0/Flags.csproj.CoreCompileInputs.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/obj/Debug/net9.0/Flags.sourcelink.json
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/obj/Debug/net9.0/Flags.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/obj/Debug/net9.0/refint/Flags.dll
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/obj/Debug/net9.0/Flags.pdb
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/obj/Debug/net9.0/Flags.genruntimeconfig.cache
+/Users/dilankavishkagamage/Playground/my-projects/BinaryInCSharpDemo/Flags/obj/Debug/net9.0/ref/Flags.dll
