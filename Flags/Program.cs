@@ -1,5 +1,8 @@
 ﻿
-Console.WriteLine(ConvertToBinary((int)SystemPermissions.Reddis));
+SystemPermissions dilanPermissions = SystemPermissions.Azure | SystemPermissions.Github;
+
+Console.WriteLine($"{ConvertToBinary((int)dilanPermissions)} : Dilan's Permissions");
+Console.WriteLine($"{(int)dilanPermissions} : Dilan's Permissions");
 
 string ConvertToBinary(int value, int places = 8)
 {
