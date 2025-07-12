@@ -12,9 +12,13 @@ Console.WriteLine($"$The result is {ConvertToBinary(result)}");
 int result1 = value1 & value2;
 Console.WriteLine($"$The result is {ConvertToBinary(result1)}");
 
-// NOT Operator
+// NOT Operator - ~
 int notValue = ~value1;
 Console.WriteLine($"$The result is {ConvertToBinary(notValue)}");
+
+// XOR Operator - ^
+int result2 = value1 ^ value2;
+Console.WriteLine($"$The result is {ConvertToBinary(result2)}");
 
 string ConvertToBinary(int value, int places = 8)
 {
