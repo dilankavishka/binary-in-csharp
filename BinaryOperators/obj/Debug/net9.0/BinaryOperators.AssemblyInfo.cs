@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BinaryOperators")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a115b920c4919305d970b4eebb0b3780cea192cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43bf392d86bf53f7b045207b304a93227257233d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BinaryOperators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BinaryOperators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

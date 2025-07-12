@@ -12,6 +12,10 @@ Console.WriteLine($"$The result is {ConvertToBinary(result)}");
 int result1 = value1 & value2;
 Console.WriteLine($"$The result is {ConvertToBinary(result1)}");
 
+// NOT Operator
+int notValue = ~value1;
+Console.WriteLine($"$The result is {ConvertToBinary(notValue)}");
+
 string ConvertToBinary(int value, int places = 8)
 {
     return Convert.ToString(value, 2).PadLeft(places, '0');
